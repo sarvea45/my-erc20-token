@@ -4,7 +4,7 @@
 MyToken is a fully functional ERC-20 smart contract built on the Ethereum blockchain. It was developed to understand the underlying logic of cryptocurrency tokens, including state management, event logging, and the approval mechanism.
 
 ## Token Details
-- **Name:** MyToken
+- **Name:** SarveshToken
 - **Symbol:** MTK
 - **Decimals:** 18
 - **Total Supply:** 1,000,000 MTK (Fixed)
